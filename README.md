@@ -2,6 +2,8 @@
 
 An OpenGL 3D remake of the original Donkey Kong arcade game, released in 1981.
 
+![Capture of DK3D running on Ubuntu](DK3D.jpg)
+
 ## Requisites
 - OpenGL and GLUT ([instructions](https://cs.lmu.edu/~ray/notes/opengl/))
 
@@ -12,10 +14,6 @@ Builds the game binary.
 
 ### `make run`
 Starts the game locally.
-
-## Images
-
-![Capture of DK3D running on Ubuntu](DK3D.jpg)
 
 ## Credits
 
